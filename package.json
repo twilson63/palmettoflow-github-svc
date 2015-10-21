@@ -1,0 +1,25 @@
+{
+  "name": "palmettoflow-github-svc",
+  "version": "1.0.0",
+  "description": "This service using the octonode api to create a palmetto flow service for the github api.",
+  "main": "index.js",
+  "dependencies": {
+    "palmettoflow-event": "^1.1.2",
+    "octonode": "^0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/palmettoflow-github-svc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twilson63/palmettoflow-github-svc/issues"
+  },
+  "homepage": "https://github.com/twilson63/palmettoflow-github-svc#readme"
+}
